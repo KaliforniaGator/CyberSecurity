@@ -67,8 +67,6 @@ This repository is licensed under the [GNU General Public License v3.0](https://
 ## Contact
 
 For any questions or suggestions, please feel free to reach out:
-
-- [KaliforniaGator]
-- [Your GitHub Profile](https://github.com/kaliforniagator)
+- [My Github](https://github.com/kaliforniagator)
 
 Thank you for visiting the Cyber Security Resources Repository! Happy learning!

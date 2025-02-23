@@ -5,11 +5,7 @@ Welcome to the Cyber Security Resources Repository! This repository is a curated
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Resources](#resources)
-  - [Cheat Sheets](#cheat-sheets)
-  - [Books](#books)
-  - [Graphs and Diagrams](#graphs-and-diagrams)
-  - [Tools](#tools)
+- [Tools](#tools)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -18,30 +14,10 @@ Welcome to the Cyber Security Resources Repository! This repository is a curated
 
 Cyber security is a critical field that requires continuous learning and adaptation to new threats and technologies. This repository aims to provide a centralized location for various resources that can help individuals and organizations improve their cyber security posture.
 
-## Resources
-
-### Cheat Sheets
-
-- [OWASP Top Ten Cheat Sheets](https://cheatsheetseries.owasp.org/IndexTopTen.html)
-- [Nmap Cheat Sheet](link-to-cheat-sheet)
-- [Wireshark Cheat Sheet](https://github.com/xChockax/Cheat-Sheets/blob/469ff22386e81d14a441db2dfc6a86e8ecaa6bd0/Wireshark%20Cheat%20Sheet.pdf)
-- [Kali Linux Commands Cheat Sheet](https://github.com/bhavesh-pardhi/KALI-CMDs/blob/b057692ce91ce1363c037864d9da0d79127365b7/100%20Kali%20linux%20Commands%20for%20Hackers.md)
-
-### Books
-
-- [The Web Application Hacker's Handbook](link-to-book)
-- [Hacking: The Art of Exploitation](link-to-book)
-- [Metasploit: The Penetration Tester's Guide](link-to-book)
-- [Cybersecurity Essentials](link-to-book)
-
-### Graphs and Diagrams
-
-- [Cyber Kill Chain Diagram](link-to-graph)
-- [MITRE ATT&CK Framework](link-to-graph)
-- [Threat Modeling Diagram](link-to-graph)
-
 ### Tools
 
+- [EasyMap](https://github.com/KaliforniaGator/EasyMap)
+- [VPNSel-ng](https://github.com/KaliforniaGator/VPNSel)
 - [Burp Suite](https://portswigger.net/burp/communitydownload)
 - [Metasploit Framework](https://www.metasploit.com/)
 - [Nessus](https://www.tenable.com/downloads/nessus)
